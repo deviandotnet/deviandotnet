@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Losam!</h1>
-<h3 align="center">Aspring Android & Backend Developer</h3>
+<h3 align="center">Aspring Android & .NET Backend Developer</h3>
 
 ## 🚀 About Me
 
 - 📱 Android Development with Kotlin
 - 🏗️ Passionate about Clean Architecture & scalable systems
 - 🌐 Backend development with ASP.NET Core
-- 💡 Always building real-world productio-structured applications
+- 💡 Always building real-world production-structured applications
 
 ## 🚀 Tech Stack
 
