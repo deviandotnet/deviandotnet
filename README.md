@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Losam!</h1>
+<h1 align="center">Hi, I'm Losam!</h1>
 <h3 align="center">Aspring Android & .NET Backend Developer</h3>
 
 ## 🚀 About Me
